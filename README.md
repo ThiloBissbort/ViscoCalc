@@ -13,7 +13,7 @@ Features:
 - Plot results (logn vs. 1/T)
 - Save results to an excel file (filename can be defined via text input)
 
-Please feel free to play around and report bugs to: thilo.bissbort@rub.de
+Please report bugs to: thilo.bissbort@rub.de
 
 All credits go to Giordano et al. (2008) and Hui and Zhang (2007) for developing these neat models!
 
