@@ -8,8 +8,8 @@ Results can be easily saved to an excel file, which contains the logViscosity ov
 Features:
 - Input = temperature + melt composition (direct user input, example compositions, or import of user data)
 - Two ways of normalization to 100% (either normalizing all oxides to sum up to 100% or 100-H2O)
-- Calculate viscosity for both models for a temperature range + the specified temperature
-- Calculate glass transition temperatures
+- Calculate viscosity from both models for a temperature range + the specified temperature
+- Calculate glass transition temperatures and fragility index
 - Plot results (logn vs. 1/T)
 - Save results to an excel file (filename can be defined via text input)
 
