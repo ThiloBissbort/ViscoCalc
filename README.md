@@ -6,6 +6,7 @@ Further, glass transition temperatures and the fragility index are calculated. V
 Results can be easily saved to an excel file, which contains the logViscosity over the temperature range. Please refer to the original papers to check the limitations of each viscosity model (e.g., valid temperature range). 
 
 Installation:
+
 Open the "ViscoCalc.mlappinstall" file in MATLAB. The app will be installed by Matlab and added to the Apps toolbar.
 
 Features:
