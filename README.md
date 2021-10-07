@@ -5,13 +5,16 @@ Melt composition and temperature are input parameters. Alternatively, exemplary 
 Further, glass transition temperatures and the fragility index are calculated. Viscosities are displayed in log (Pa s) and also plotted over a wide temperature range.
 Results can be easily saved to an excel file, which contains the logViscosity over the temperature range. Please refer to the original papers to check the limitations of each viscosity model (e.g., valid temperature range). 
 
+Installation:
+Open the "ViscoCalc.mlappinstall" file in MATLAB. The app will be installed by Matlab and added to the Apps toolbar.
+
 Features:
 - Input = temperature + melt composition (direct user input, example compositions, or import of user data)
 - Two ways of normalization to 100% (either normalizing all oxides to sum up to 100% or 100-H2O)
 - Calculate viscosity from both models for a temperature range + the specified temperature
 - Calculate glass transition temperatures and fragility index
 - Plot results (logn vs. 1/T)
-- Save results to an excel file (filename can be defined via text input)
+- Save results to an excel file (filename can be defined via text input); the file will be created in the active folder
 
 Please report bugs to: thilo.bissbort@rub.de
 
