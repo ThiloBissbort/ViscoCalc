@@ -27,3 +27,5 @@ References:
 - Hui, H.; Zhang, Y. (2007): Toward a general viscosity equation for natural anhydrous and hydrous silicate melts. In: Geochimica et Cosmochimica Acta 71, 2, S. 403–416.
 
 PS: I am not responsible for any errors, mistakes, software or hardware problems that might be caused by using this program. 
+
+DOI:10.13140/RG.2.2.30660.30080
