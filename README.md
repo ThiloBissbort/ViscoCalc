@@ -22,9 +22,8 @@ Please report bugs to: thilo.bissbort@rub.de
 All credits go to Giordano et al. (2008) and Hui and Zhang (2007) for developing these neat models!
 
 References:
-
-- Giordano, D.; Potuzak, M.; Romano, C.; Dingwell, D. B.; Nowak, M. (2008): Viscosity and glass transition temperature of hydrous melts in the system CaAl2Si2O8–CaMgSi2O6. In: Chemical Geology 256, 3, S. 203–215.
-- Hui, H.; Zhang, Y. (2007): Toward a general viscosity equation for natural anhydrous and hydrous silicate melts. In: Geochimica et Cosmochimica Acta 71, 2, S. 403–416.
+- Daniele Giordano, James K. Russell, Donald B. Dingwell,Viscosity of magmatic liquids: A model,Earth and Planetary Science Letters,Volume 271,2008,Pages 123-134,ISSN 0012-821X,https://doi.org/10.1016/j.epsl.2008.03.038
+- Hui, H.; Zhang, Y. (2007): Toward a general viscosity equation for natural anhydrous and hydrous silicate melts. In: Geochimica et Cosmochimica Acta 71, 2, S. 403–416.,https://doi.org/10.1016/j.gca.2006.09.003
 
 PS: I am not responsible for any errors, mistakes, software or hardware problems that might be caused by using this program. 
 
